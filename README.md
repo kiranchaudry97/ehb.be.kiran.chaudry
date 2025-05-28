@@ -20,16 +20,92 @@ get,post , put  gebruikt om alle event te kunnen tonen en sorteren map gebruikt 
 _ details.html waar je inhoud van de event kan bekijken door te klikken bij de index van bekijk
 - about.html soort about niets specials
 
-  ## afbeeldingen 
+  ## afbeeldingen
+
+  ### applicatie properties en dependencies
+ ![alt](https://github.com/kiranchaudry97/ehb.be.kiran.chaudry/blob/e92d5deedd1e6a93aeb0d6041570a7cae630c18e/Project_EA_afbeeldingen/Application_properties.png)
+
+ ![alt](https://github.com/kiranchaudry97/ehb.be.kiran.chaudry/blob/6058ef38904d1d88739a8459d97e0b208a1f899f/Project_EA_afbeeldingen/pom_depedencies.png)
+
+ 
+
+
 ## Model
+### Event
 ![alt](https://github.com/kiranchaudry97/ehb.be.kiran.chaudry/blob/2270bde22407ecd79a8689689b28322cafc7b1f0/Project_EA_afbeeldingen/EventModel_inhoud_1.png)
 
-![alt]()
+![alt](https://github.com/kiranchaudry97/ehb.be.kiran.chaudry/blob/e92d5deedd1e6a93aeb0d6041570a7cae630c18e/Project_EA_afbeeldingen/EventModel_inhoud_2.png)
+### Locatie
+![alt](https://github.com/kiranchaudry97/ehb.be.kiran.chaudry/blob/e92d5deedd1e6a93aeb0d6041570a7cae630c18e/Project_EA_afbeeldingen/LocatieModel_inhoud_1.png)
 
-![alt]()
+![alt](https://github.com/kiranchaudry97/ehb.be.kiran.chaudry/blob/e92d5deedd1e6a93aeb0d6041570a7cae630c18e/Project_EA_afbeeldingen/LocatieModel_inhoud_2.png)
 
-![alt]()
+## DAO object
+### locatie en event
+![alt](https://github.com/kiranchaudry97/ehb.be.kiran.chaudry/blob/e92d5deedd1e6a93aeb0d6041570a7cae630c18e/Project_EA_afbeeldingen/LocatieDAO_inhoud.png)
 
-![alt]()
+![alt](https://github.com/kiranchaudry97/ehb.be.kiran.chaudry/blob/e92d5deedd1e6a93aeb0d6041570a7cae630c18e/Project_EA_afbeeldingen/EventDAO_inhoud.png)
 
-![alt]()
+## Controller
+### eventrestcontroller
+
+![alt](https://github.com/kiranchaudry97/ehb.be.kiran.chaudry/blob/e92d5deedd1e6a93aeb0d6041570a7cae630c18e/Project_EA_afbeeldingen/EvenRestController_Inhoud_1.png)
+
+![alt](https://github.com/kiranchaudry97/ehb.be.kiran.chaudry/blob/e92d5deedd1e6a93aeb0d6041570a7cae630c18e/Project_EA_afbeeldingen/EventRestController_inhoud_2.png)
+
+![alt](https://github.com/kiranchaudry97/ehb.be.kiran.chaudry/blob/e92d5deedd1e6a93aeb0d6041570a7cae630c18e/Project_EA_afbeeldingen/EventRestController_inhoud_3.png)
+
+### webevencontroller
+
+![alt](https://github.com/kiranchaudry97/ehb.be.kiran.chaudry/blob/e92d5deedd1e6a93aeb0d6041570a7cae630c18e/Project_EA_afbeeldingen/WebEventController_inhoud_1.png)
+
+![alt](https://github.com/kiranchaudry97/ehb.be.kiran.chaudry/blob/e92d5deedd1e6a93aeb0d6041570a7cae630c18e/Project_EA_afbeeldingen/WebEventController_inhoud_2.png)
+
+## templates van thymeleaf
+### index.html
+![alt](https://github.com/kiranchaudry97/ehb.be.kiran.chaudry/blob/e92d5deedd1e6a93aeb0d6041570a7cae630c18e/Project_EA_afbeeldingen/TemplatesIndex_inhoud_1.png)
+
+![alt](https://github.com/kiranchaudry97/ehb.be.kiran.chaudry/blob/e92d5deedd1e6a93aeb0d6041570a7cae630c18e/Project_EA_afbeeldingen/TemplatesIndex_inhoud_2.png)
+
+
+### details.html
+![alt](https://github.com/kiranchaudry97/ehb.be.kiran.chaudry/blob/e92d5deedd1e6a93aeb0d6041570a7cae630c18e/Project_EA_afbeeldingen/TemplatesDetails_inhoud_1.png)
+
+![alt](https://github.com/kiranchaudry97/ehb.be.kiran.chaudry/blob/e92d5deedd1e6a93aeb0d6041570a7cae630c18e/Project_EA_afbeeldingen/TemplatesDetails_inhoud_2.png)
+
+### new.html
+![alt](https://github.com/kiranchaudry97/ehb.be.kiran.chaudry/blob/e92d5deedd1e6a93aeb0d6041570a7cae630c18e/Project_EA_afbeeldingen/TemplatesNew_inhoud_1.png)
+
+
+![alt](https://github.com/kiranchaudry97/ehb.be.kiran.chaudry/blob/e92d5deedd1e6a93aeb0d6041570a7cae630c18e/Project_EA_afbeeldingen/TemplatesNew_inhoud_2.png)
+
+![alt](https://github.com/kiranchaudry97/ehb.be.kiran.chaudry/blob/e92d5deedd1e6a93aeb0d6041570a7cae630c18e/Project_EA_afbeeldingen/TemplatesNew_inhoud_3.png)
+
+### about.html
+![alt](https://github.com/kiranchaudry97/ehb.be.kiran.chaudry/blob/e92d5deedd1e6a93aeb0d6041570a7cae630c18e/Project_EA_afbeeldingen/TemplatesAbout_inhoud.png)
+
+## Testing 
+
+### browser check 
+
+![alt](https://github.com/kiranchaudry97/ehb.be.kiran.chaudry/blob/e92d5deedd1e6a93aeb0d6041570a7cae630c18e/Project_EA_afbeeldingen/Testen_browser_werkt.png)
+
+![alt](https://github.com/kiranchaudry97/ehb.be.kiran.chaudry/blob/e92d5deedd1e6a93aeb0d6041570a7cae630c18e/Project_EA_afbeeldingen/Test_browser_1.png)
+
+![alt](https://github.com/kiranchaudry97/ehb.be.kiran.chaudry/blob/e92d5deedd1e6a93aeb0d6041570a7cae630c18e/Project_EA_afbeeldingen/Test_browser_2.png)
+
+
+### test new event toevoegen 
+
+
+![alt](https://github.com/kiranchaudry97/ehb.be.kiran.chaudry/blob/e92d5deedd1e6a93aeb0d6041570a7cae630c18e/Project_EA_afbeeldingen/Inhoud_Evenement_test.png)
+
+![alt](https://github.com/kiranchaudry97/ehb.be.kiran.chaudry/blob/e92d5deedd1e6a93aeb0d6041570a7cae630c18e/Project_EA_afbeeldingen/New_evenement_update_test.png)
+
+## postman
+
+![alt](https://github.com/kiranchaudry97/ehb.be.kiran.chaudry/blob/e92d5deedd1e6a93aeb0d6041570a7cae630c18e/Project_EA_afbeeldingen/postman_check.png)
+
+## Database weergave 
+![alt](https://github.com/kiranchaudry97/ehb.be.kiran.chaudry/blob/e92d5deedd1e6a93aeb0d6041570a7cae630c18e/Project_EA_afbeeldingen/Mysql_tables_event.png)
+
